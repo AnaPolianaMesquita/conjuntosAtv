@@ -59,30 +59,46 @@ python3 main.py
 
 ## Exemplo da aplicação
 
-** CONJUNTO DO USUÁRIO (A)** 1
+
+---
+
+```markdown
+
+--------------------------------------------------
+CONJUNTO DO USUÁRIO (A)
+--------------------------------------------------
+
 Digite números inteiros ou palavras.
 Separe os elementos por espaço (exemplo: 5 10 bola asa)
-Digite de 4 a 8 elementos: 2 3 5 6 7 **(Dados inseridos pelo usuário)**
 
-==================================================
+Digite de 4 a 8 elementos: 2 3 5 6 7
+(⬆️ Dados inseridos pelo usuário)
+
+--------------------------------------------------
 RESULTADOS DAS OPERAÇÕES
-==================================================
+--------------------------------------------------
 
-Conjunto A (usuário): {2, 3, 5, 6, 7}
+Conjunto A (usuário):  {2, 3, 5, 6, 7}
 Conjunto B (aleatório): {'cachorro', 10, 'arvore', 7}
 
---- OPERAÇÕES ---
-União (A ∪ B): {2, 3, 5, 6, 7, 10, 'arvore', 'cachorro'}
-Interseção (A ∩ B): {7}
-Diferença (A - B): {2, 3, 5, 6}
-Diferença (B - A): {10, 'arvore', 'cachorro'}
-Diferença simétrica (A Δ B): {2, 3, 5, 6, 10, 'arvore', 'cachorro'}
+--------------------------------------------------
+OPERAÇÕES
+--------------------------------------------------
 
---- CARDINALIDADES ---
+União (A ∪ B):  {2, 3, 5, 6, 7, 10, 'arvore', 'cachorro'}
+Interseção (A ∩ B):  {7}
+Diferença (A - B):  {2, 3, 5, 6}
+Diferença (B - A):  {10, 'arvore', 'cachorro'}
+Diferença simétrica (A Δ B):  {2, 3, 5, 6, 10, 'arvore', 'cachorro'}
+
+--------------------------------------------------
+CARDINALIDADES
+--------------------------------------------------
+
 |A| = 5
 |B| = 4
 |A ∪ B| = 8
 
-==================================================
+--------------------------------------------------
 FIM!
-==================================================
+--------------------------------------------------
