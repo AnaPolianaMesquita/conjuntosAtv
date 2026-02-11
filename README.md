@@ -59,7 +59,7 @@ python3 main.py
 
 ## Exemplo da aplicação
 
---- CONJUNTO DO USUÁRIO (A) ---
+** CONJUNTO DO USUÁRIO (A)** 
 Digite números inteiros ou palavras.
 Separe os elementos por espaço (exemplo: 5 10 bola asa)
 Digite de 4 a 8 elementos: 2 3 5 6 7 **(Dados inseridos pelo usuário)**
