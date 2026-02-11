@@ -27,17 +27,14 @@ Diferença (`A - B` e `B - A`)
 Diferença simétrica (`A Δ B`)
 Cardinalidade (`|A|`, `|B|`, `|A ∪ B|`)
 
-**Definição**
 | Operação | Descrição | Notação |
 |----------|-----------|---------|
 | **União** | Elementos que estão em A ou em B | `A ∪ B` |
 | **Interseção** | Elementos que estão em A e em B | `A ∩ B` |
-| **Diferença** | Elementos que estão em A mas não em B | `A - B` |
-| **Diferença** | Elementos que estão em B mas não em A | `B - A` |
+| **Diferença (A - B)** | Elementos que estão em A mas não em B | `A - B` |
+| **Diferença (B - A)** | Elementos que estão em B mas não em A | `B - A` |
 | **Diferença Simétrica** | Elementos que estão em A ou B, mas não em ambos | `A Δ B` |
 | **Cardinalidade** | Tamanho (quantidade de elementos) de cada conjunto | `\|A\|`, `\|B\|`, `\|A ∪ B\|` |
-
----
 
 ### Pré-requisitos para exercução
 
