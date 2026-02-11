@@ -9,8 +9,7 @@
 ---
 
 ## Descrição da atividade 
-Essa atividade tem o objetivo de Aplicar os conceitos de teoria dos conjuntos (união, interseção, diferença, com-
-plemento, cardinalidade etc.) em um programa em Python.
+Essa atividade tem o objetivo de Aplicar os conceitos de teoria dos conjuntos (união, interseção, diferença, complemento, cardinalidade etc.) em um programa em Python.
 
 ## Explicação do Programa
 
@@ -53,9 +52,14 @@ No terminal,
 python3 main.py
 
 ## Organização do Código
-`obter_conjunto_usuario()` : Entrada e validação do conjunto A
- `gerar_conjunto_aleatorio()` : Geração aleatória do conjunto B
-`mostrar_resultados()` ":"Cálculo e exibição das operações
+ **`obter_conjunto_usuario()`**  
+  Responsável pela entrada e validação do conjunto A (usuário).
+
+ **`gerar_conjunto_aleatorio()`**  
+  Responsável pela geração aleatória do conjunto B.
+
+  **`mostrar_resultados()`**  
+  Responsável pelo cálculo e exibição das operações com conjuntos.
 
 ## Exemplo da aplicação
 
