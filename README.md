@@ -14,7 +14,7 @@ plemento, cardinalidade etc.) em um programa em Python.
 
 ## Explicação do Programa
 
-O programa inicia solicitando que o usuário defina seu próprio **conjunto (A)** , digitando entre 4 e 8 elementos, que podem ser números inteiros ou palavras. Com sistema valida se a quantidade de elemntos inserida pelo usuario está correta, remove duplicadas, caso exista e converte strings numéricas para inteiros. Isso evita erros nas operações, pois o Python diferencia, por exemplo, 5 (inteiro) de "5" (string), o que comprometeria a interseção e a diferença entre os conjuntos
+O programa inicia solicitando que o usuário defina seu próprio **conjunto (A)** , digitando entre 4 e 8 elementos, que podem ser números inteiros ou palavras. Com sistema valida se a quantidade de elemntos inserida pelo usuario está correta, remove duplicadas, caso exista e converte strings numéricas para inteiros. Isso evita erros nas operações, pois o Python diferencia, por exemplo, 5 (inteiro) de "5" (string), o que comprometeria a interseção e a diferença entre os conjuntos.
 
 
 Com isso, o programa gera aleatoriamente um segundo **conjunto (B)** , também com 4 a 8 elementos, sorteados de forma aleatória entre Números inteiros (definidos no programa de 1 até 10) e uma lista de palavras.
